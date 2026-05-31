@@ -1,0 +1,6 @@
+{
+  "name": "Amoo Academy",
+  "description": "Premium photo editing, graphic design, and video editing courses by Amanuel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
